@@ -25,4 +25,21 @@
 <img width="254" height="135" alt="image" src="https://github.com/user-attachments/assets/5ad4ffb5-3949-4cd6-948b-d67050b86acc" />
 <img width="238" height="274" alt="image" src="https://github.com/user-attachments/assets/aa6407df-e555-4e28-ac4f-7e8bb869c75c" />
 <p>******************************</p>
+<p><span style="font-weight: 300;">Создадим каталог ~/task25, а в нем Vagrantfile, в котором будут указаны параметры наших ВМ. Файл прикладываю сюда.</span></p>
+<p><span style="font-weight: 400;">Данный Vagrantfile развернет 7 виртуальных машин:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5 ВМ на CentOS 8</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 ВМ на Ubuntu 22.04</span></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
 
