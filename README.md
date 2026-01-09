@@ -1,5 +1,4 @@
 # adm_training_task25
-# adm_training_task29
 <h1 align="center">Занятие 25. Строим бонды и вланы</h1>
 <h3 class="western"><span style="font-family: Roboto, serif;"><span style="font-size: small;">Описание задания</span></span></h3>
 <p><span style="font-weight: 400;">в Office1 в тестовой подсети появляется сервера с доп интерфейсами и адресами</span></p>
